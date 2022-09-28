@@ -84,51 +84,29 @@ body {
 /* Styling of task tags */
 .editorial {
 	background-color: #47adf1;
-	padding: 5px 10px;
-	border-radius: 15px;
-	color: white;
-	border: none;
-	font-size: 13px;
 }
 
 .q1-goals {
 	background-color: #9c72e4;
-	padding: 5px 10px;
-	border-radius: 15px;
-	color: white;
-	border: none;
-	font-size: 13px;
 }
 
 .recruiting {
 	background-color: #64c0a9;
-	padding: 5px 10px;
-	border-radius: 15px;
-	color: white;
-	border: none;
-	font-size: 13px;
 }
 
 .mobile {
 	background-color: #f29e33;
-	padding: 5px 10px;
-	border-radius: 15px;
-	color: white;
-	border: none;
-	font-size: 13px;
 }
 
 .website {
 	background-color: #d863a1;
-	padding: 5px 10px;
-	border-radius: 15px;
-	color: white;
-	border: none;
-	font-size: 13px;
 }
 
 .sales {
 	background-color: #b0c926;
+}
+
+.label {
 	padding: 5px 10px;
 	border-radius: 15px;
 	color: white;
